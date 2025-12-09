@@ -1,0 +1,6 @@
+print("=== CaféFlow Terminal Edition ===")
+print("Cardápio do dia:")
+print("Espresso - R$5,00")
+print("Cappuccino - R$9,00")
+print("Latte - R$10,00")
+print("Boas-vindas, mestre dos códigos!")
